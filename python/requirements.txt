@@ -1,0 +1,10 @@
+# Runtime: none. The package runs on the Python standard library.
+# Python 3.10+ required (PEP 604 union syntax).
+#
+# Optional, for development only:
+# pytest>=8.0          # nicer test output; tests also run via `python tests/test_all.py`
+#
+# Optional, for the dense-retrieval upgrade (see orthorag/index.py HybridIndex).
+# Add only alongside an eval run that demonstrates a measured gain:
+# sentence-transformers>=3.0
+# numpy>=1.24
