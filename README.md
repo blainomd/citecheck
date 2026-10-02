@@ -138,3 +138,7 @@ identity, PROMs) are listed at **[solvinghealth.com/#open](https://solvinghealth
 
 Made for the DOCSF 2026 breakout "The Evolution of Search" (surgeonvalue.com/docsf).
 Apache-2.0: copy it, rename it, adapt it for your specialty.
+
+## Sibling: orthoharness
+
+Citation checking is one row of a bigger test. **[orthoharness](https://github.com/blainomd/orthoharness)** is an open benchmark harness for orthopaedic AI that uses this same title matching, plus staged cases, two yardsticks that are never averaged, credit for "not enough information", contraindication and omission checks, and the keep-or-strike delta. Apache-2.0, no dependencies.
